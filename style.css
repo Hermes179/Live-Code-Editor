@@ -26,7 +26,6 @@ textarea {
 	color: white;
 	outline: none;
 	border: none;
-	resize: none;
 }
 .main-title {
 	display: flex;
